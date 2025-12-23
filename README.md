@@ -25,7 +25,7 @@ Visit the [Releases](https://github.com/momysnow/ToolMotion-Releases/releases) p
 
 ## Support
 
-For support, feature requests, or bug reports, visit [toolmotion.dev](https://toolmotion.dev).
+For support, feature requests, or bug reports, visit [toolmotion.dev](https://toolmotion.vercel.app).
 
 ---
 
